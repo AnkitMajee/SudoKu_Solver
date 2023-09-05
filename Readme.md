@@ -15,7 +15,7 @@ This is a simple Sudoku Solver web application that uses the backtracking algori
 
 ## Demo
 
-You can try out the Sudoku Solver here: [Demo](https://your-demo-link.com)
+You can try out the Sudoku Solver here: [Demo]([https://your-demo-link.com](https://ankitmajee.github.io/SudoKu_Solver/)
 
 ## Getting Started
 
